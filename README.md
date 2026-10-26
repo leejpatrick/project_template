@@ -4,9 +4,9 @@ Fork this repository once for your team and use the fork as the single record of
 
 ## Project information
 
-- **Project title:** [Replace with your project title]
-- **Team members:** [Replace with names]
-- **Repository URL:** [Replace with the URL of your team's fork]
+- **Project title:** Breakouts and Bricks: Shot Distribution and Placement Prediction in the NBA
+- **Team members:** Patrick Lee, Tesher Baer, Jason Zermani, Nathan Brence
+- **Repository URL:** https://github.com/leejpatrick/project_template
 
 ## Repository structure
 
